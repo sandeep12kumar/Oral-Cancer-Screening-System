@@ -37,6 +37,6 @@ A Flask-based web app allows users to upload an image and get instant prediction
 - **Model:** Loaded using TensorFlow/Keras
 
 
-##Contact
+## Contact
 
 If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me at sandeepkumarptkm@gmail.com.
